@@ -1,7 +1,6 @@
 package com.desafio.alura.forohub.domain.curso.dto;
 
-import com.desafio.alura.forohub.domain.curso.Categoria;
-import com.desafio.alura.forohub.domain.curso.Curso;
+import com.desafio.alura.forohub.domain.curso.*;
 
 public record DetalleCursoDTO(
         Long id,
